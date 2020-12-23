@@ -2,6 +2,9 @@
 
 ## Currently working at [Startted.com](https://www.startted.com "startted.com")
 
+### Work experience:
+
+* September 2020 - present: iOS Developer at [Startted.com](https://www.startted.com "startted.com")
 
 ### Non-developer work experience
 
