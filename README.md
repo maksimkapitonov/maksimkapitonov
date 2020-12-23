@@ -16,6 +16,7 @@
 * [Podgotovka.ru](https://www.podgotovka.ru "Podgotovka")
   * iOS app (soon on App Store)
 
+
 ### Non-developer work experience
 
 * **June 2019 - September 2020:** Acting Head Protocol Department (International Affairs Office) at [Kazan National Research Technological University](http://www.kstu.ru "KNRTU")
