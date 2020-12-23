@@ -1,4 +1,3 @@
-# Hi there 👋
-# I'm Maksim
+# Hi there 👋 I'm Maksim - self-taught iOS Developer
 
-## Self-taught iOS Developer at [Startted.com](https://www.startted.com "startted.com")
+## Currently working at [Startted.com](https://www.startted.com "startted.com")
