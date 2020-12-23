@@ -6,7 +6,7 @@
 
 * **September 2020 - present:** iOS Developer at [Startted.com](https://www.startted.com "startted.com")
 
-######Projects I worked in:
+###### Projects I worked in:
 * [Nastavnik.ru](https://nastavnik.ru "Nastavnik.ru")
   * iOS app (soon on App Store)
 * [Fin2Fin.com](https://fin2fin.com "Fin2Fin")
