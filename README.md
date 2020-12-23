@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-# Self-taught iOS Developer at [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+# Self-taught iOS Developer at [Startted.com](https://www.google.com "startted.com")
