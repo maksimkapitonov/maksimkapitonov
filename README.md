@@ -14,7 +14,7 @@
 * [InMenu.com](https://inmenu.com "InMenu")
   * iOS app (soon on App Store)
 * [Podgotovka.ru](https://www.podgotovka.ru "Podgotovka")
-  * [See on App Store](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2021-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B/id1546440537)
+  * [iOS App on App Store](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2021-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B/id1546440537)
 
 
 ##### Non-developer work experience
