@@ -17,9 +17,9 @@
 
 #### My own projects:
 * [RateMe](https://github.com/maksimkapitonov/RateMe)
- * An app for providing your own rating for all things you want
- * Developed for iOS, iPdaOS and macOS
- * 100% open source
+  * An app for providing your own rating for all things you want
+  * Developed for iOS, iPdaOS and macOS
+  * 100% open source
 
 ##### Non-programming work experience
 
