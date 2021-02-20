@@ -7,15 +7,13 @@
 * **September 2020 - present:** iOS Developer at [Startted.com](https://www.startted.com "startted.com")
 
 #### Projects I worked in:
-* [Nastavnik.ru](https://nastavnik.ru "Nastavnik.ru")
-  * iOS app (soon on App Store)
-* [Fin2Fin.com](https://fin2fin.com "Fin2Fin")
-  * iOS app (soon on App Store)
 * [InMenu.com](https://inmenu.com "InMenu")
   * iOS app (soon on App Store)
 * [Podgotovka.ru](https://www.podgotovka.ru "Podgotovka")
   * Helps pupils prepare for the Russian Unified State Exam.
   * [iOS App on App Store](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2021-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B/id1546440537)
+* [Nastavnik.ru](https://nastavnik.ru "Nastavnik.ru")
+  * iOS app (soon on App Store)
 
 
 ##### Non-programming work experience
