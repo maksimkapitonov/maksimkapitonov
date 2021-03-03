@@ -8,7 +8,10 @@
 
 #### Projects I worked in:
 * [InMenu.com](https://inmenu.com "InMenu")
-  * iOS app (soon on App Store)
+  * Food industry service
+  * Helps clients to find nearby cafes/bars/restaurants and make orders via the app
+  * Enables owners to manage their menus online and translate them into over 14 languages
+  * [iOS App on App Store](https://apps.apple.com/ru/app/inmenu/id1552841931)
 * [Podgotovka.ru](https://www.podgotovka.ru "Podgotovka")
   * Helps pupils prepare for the Russian Unified State Exam.
   * [iOS App on App Store](https://apps.apple.com/ru/app/%D0%B5%D0%B3%D1%8D-2021-%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D1%8B-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B/id1546440537)
